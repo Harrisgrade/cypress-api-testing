@@ -1,0 +1,18 @@
+{
+  "data": {
+    "character": {
+      "name": "Rick Sanchez",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "gender": "Male",
+      "created": "2017-11-04T18:48:46.250Z"
+    },
+    "episode": {
+      "name": "Pilot"
+    },
+    "location": {
+      "name": "Earth (C-137)"
+    }
+  }
+}
